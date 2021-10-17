@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background: #f4ede3;
+    font-family: Montserrat,sans-serif;
+    height: 200vh;
+}
+
+.father_container{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+
+.left_tab {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    width: 10%;
+    height: 50%;
+
+}
+
+.logo img{
+    height: 6rem;
+    width: 6rem;
+    padding: 0 3rem;
+}
+.sns_a {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 1.5rem;
+    height: 7rem;
+}
+
+.sns_a img {
+    height: 1rem;
+    width: 1rem;   
+}
+
+h6 {
+    height: 2rem;
+    width: 15rem;
+    padding: 1rem;
+    
+}
+
+.right_tab {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    width: 10%;
+    height: 50%;
+}
+
+.menu_button{
+    width: 5rem;
+    height: 10rem;
+    border: none;
+}
+
+.menu_button a {
+    color: black;
+    font-size: 0.8rem;
+}
+
+.w{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7rem;
+    height: 3rem;
+    background-color: black;
+    transform: rotate(270deg);
+}
+
+.w a {
+    color: white;
+    font-weight:700;
+}
+
+.right_tab_i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgb(245, 59, 27);
+    border-radius: 100px;
+    height: 0.5rem;
+    width: 0.5rem;
+}
+
+.menu {
+    border:1px solid tomato;
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.redbox {
+    font-size:x-large;
+    font-weight: 400;
+    color: black;
+}
+
+.menu a {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.redbox_two {
+    font-size: 7rem;
+    font-weight: 900;
+}
+
+.redbox_two span {
+    font-size:large;
+    font-weight:400;
+}
+.redbox_two {
+    font-size: 7rem;
+    font-weight: 900;
+}
+
+.redbox_two span {
+    font-size:large;
+    font-weight:400;
+}
+.redbox_two {
+    font-size: 7rem;
+    font-weight: 900;
+}
+
+.redbox_two span {
+    font-size:large;
+    font-weight:400;
+}
+.redbox_two {
+    font-size: 7rem;
+    font-weight: 900;
+}
+
+.redbox_two span {
+    font-size:large;
+    font-weight:400;
+}
